@@ -2,3 +2,5 @@
 __pycache__/
 .ipynb_checkpoints/
 .env
+sales_df.csv
+retail_data.csv
