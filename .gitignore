@@ -4,3 +4,4 @@ __pycache__/
 .env
 sales_df.csv
 retail_data.csv
+report_data.csv
